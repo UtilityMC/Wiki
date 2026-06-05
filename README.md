@@ -1,5 +1,5 @@
 ---
-description: Welcome to your team’s developer platform
+description: Welcome to the UtilityTools wiki!
 icon: house
 layout:
   width: wide
@@ -21,14 +21,13 @@ layout:
     visible: true
 ---
 
-# Developer Platform
+# Welcome!
 
-<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
-
-<button type="button" class="button primary" data-action="ask" data-query="How do I get started?" data-icon="rocket-launch">Installation</button><button type="button" class="button secondary" data-action="ask" data-query="How do I authenticate with the developer platform?" data-icon="folder-arrow-up">Added content</button><button type="button" class="button secondary" data-action="ask" data-query="How do I integrate with my stack?" data-icon="rotate">Updates</button><button type="button" class="button secondary" data-action="ask" data-query="How do I contribute?" data-icon="code-pull-request">Versions</button>
+<a href="https://app.gitbook.com/o/33hyYI1xG2G4JdhSI5oI/s/3iaBKjJJPNszsmbWWfDj/" class="button primary" data-icon="rocket-launch">Installation</a><a href="https://app.gitbook.com/o/33hyYI1xG2G4JdhSI5oI/s/j0ZnNDAyTSwq2Hzcwpom/" class="button secondary" data-icon="folder-arrow-up">Added content</a><a href="https://app.gitbook.com/o/33hyYI1xG2G4JdhSI5oI/s/2XpWxwUzkDWyrUAJi3d5/" class="button secondary" data-icon="rotate">Updates</a><a href="https://app.gitbook.com/o/33hyYI1xG2G4JdhSI5oI/s/TgkUJETBYLtD5AW6uZ4L/" class="button secondary" data-icon="code-pull-request">Versions</a>
 
 &#x20;
 
 &#x20;
 
 &#x20;
+
