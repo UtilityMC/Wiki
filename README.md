@@ -25,7 +25,7 @@ layout:
 
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
 
-<button type="button" class="button secondary" data-action="ask" data-query="How do I get started?" data-icon="rocket-launch">Get started</button><button type="button" class="button secondary" data-action="ask" data-query="How do I authenticate with the developer platform?" data-icon="key">Authenticate</button><button type="button" class="button secondary" data-action="ask" data-query="How do I integrate with my stack?" data-icon="code">Integrate</button><button type="button" class="button secondary" data-action="ask" data-query="How do I contribute?" data-icon="code-pull-request">Contribute</button>
+<button type="button" class="button primary" data-action="ask" data-query="How do I get started?" data-icon="rocket-launch">Installation</button><button type="button" class="button secondary" data-action="ask" data-query="How do I authenticate with the developer platform?" data-icon="folder-arrow-up">Added content</button><button type="button" class="button secondary" data-action="ask" data-query="How do I integrate with my stack?" data-icon="rotate">Updates</button><button type="button" class="button secondary" data-action="ask" data-query="How do I contribute?" data-icon="code-pull-request">Versions</button>
 
 &#x20;
 
